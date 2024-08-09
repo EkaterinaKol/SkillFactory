@@ -44,7 +44,8 @@
  - [Cтолбчатая диаграмма](https://htmlpreview.github.io/?https://github.com/EkaterinaKol/SkillFactory/blob/main/bank_%D1%81ustomer_churn/plotly_figures/fig_8.html), отражающая зависимость оттока клиентов от статуса активного клиента; 
  - [Тепловая картограмма](https://htmlpreview.github.io/?https://github.com/EkaterinaKol/SkillFactory/blob/main/bank_%D1%81ustomer_churn/plotly_figures/fig_9.html), демонстрирующая долю ушедших клиентов по странам;
  - [Тепловая карта](https://htmlpreview.github.io/?https://github.com/EkaterinaKol/SkillFactory/blob/main/bank_%D1%81ustomer_churn/plotly_figures/fig_10.html) зависимости доли ушедших клиентов от кредитного рейтинга и количества лет с банком.\
- По всем визуализациям сделаны заключения. Сделаны выводы о том, чем ушедшие клиенты отличаются от лояльных и как между собой связаны различные признаки, определяющие клиентов.
+
+ По всем визуализациям сделаны заключения. Сформулированы выводы о том, чем ушедшие клиенты отличаются от лояльных и как между собой связаны различные признаки, определяющие клиентов.
 
 :arrow_up:[к оглавлению](README.md#оглавление)
 
